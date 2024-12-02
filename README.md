@@ -7,7 +7,7 @@
 
 
 Discord : sharkblacklist
-[![JasmineBot](https://jasminebot.vercel.app/)
+[JasmineBot](https://jasminebot.vercel.app/)
 
 
 ---
